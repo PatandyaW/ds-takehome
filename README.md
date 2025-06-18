@@ -1,17 +1,17 @@
 # ds-takehome
 Panduan ini menjelaskan cara menjalankan kode di tiga bagian proyek: SQL, Jupyter Notebook (IPYNB), dan R Studio.
 
-#1. SQL
+# 1. SQL
 SQL yang digunakan dalam proyek ini dapat dijalankan dalam dua cara:
 
 Per Part: Anda dapat menjalankan SQL query per bagian sesuai dengan kebutuhan analisis. Cukup pilih bagian query yang ingin dijalankan.
 Semua Query Sekaligus: Jika Anda ingin menjalankan semua query sekaligus, cukup run dan menjalankannya dalam satu kali eksekusi.
 
-#2. Jupyter Notebook (IPYNB)
+# 2. Jupyter Notebook (IPYNB)
 Untuk Jupyter Notebook, dataset dipanggil dari drive, sehingga jika ingin menjalankannya di lokal, bisa memperbarui sumber dataset terlebih dahulu.
 
 
-#3. R Studio
+# 3. R Studio
 Kode R Studio dapat dijalankan baik per bagian maupun sekaligus, Jika  belum menginstal library yang digunakan, pastikan untuk menginstalnya terlebih dahulu agar kode dapat dijalankan tanpa error.
 
 Panduan Menjalankan Kode R:
